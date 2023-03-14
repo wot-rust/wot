@@ -3,6 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://github.com/sifis-home/wot-td/workflows/wot-td/badge.svg)](https://github.com/sifis-home/wot/actions)
 [![Crates.io](https://img.shields.io/crates/v/wot.svg)](https://crates.io/crates/wot) [![dependency status](https://deps.rs/repo/github/sifis-home/wot/status.svg)](https://deps.rs/repo/github/sifis-home/wot) [![Documentation](https://docs.rs/wot/badge.svg)](https://docs.rs/wot/)
+[![wot discord](https://img.shields.io/badge/wot-discord-blue)](https://discord.gg/5zy68ukBrv)
 
 Rust implementation of [Web of Things](https://www.w3.org/WoT/wg/)
 
