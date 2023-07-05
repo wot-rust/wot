@@ -1,6 +1,6 @@
 [package]
 name = "wot"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "Web of Things (WoT)"
 license = "MIT"
@@ -8,6 +8,5 @@ repository = "https://github.com/sifis-home/wot"
 keywords = ["wot", "WebofThings"]
 
 [dependencies]
-wot-td = "0.1"
-wot-serve = "0.1"
-wot-discovery = "0.1"
+wot-td = "0.2.1"
+wot-serve = "0.3.1"
