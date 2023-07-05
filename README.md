@@ -8,9 +8,8 @@
 Rust implementation of [Web of Things](https://www.w3.org/WoT/wg/)
 
 This crate re-exports the following
-- [x] [wot-td](https://github.com/wot-rust/wot-td) Produce and consume Thing Description 
+- [x] [wot-td](https://github.com/wot-rust/wot-td) Produce and consume Thing Description
 - [x] [wot-serve](https://github.com/wot-rust/wot-serve) Serve Things using HTTP and mDNS-SD
-- [x] [wot-discovery](https://github.com/wot-rust/wot-discovery) Discover Things in the network  
 
 ## Acknowledgements
 
